@@ -5,7 +5,7 @@ const Skills = () => {
     return (
         <div className='w-full text-left px-8 pb-96'>
             <div className='max-w-screen-xl w-full '>
-                <h1 className='text-neutral-600 text-2xl md:text-3xl mb-8'>Experience</h1>
+                <h1 className='text-neutral-600 text-2xl md:text-3xl mb-8'>Skills</h1>
                 <div className='flex gap-4 shrink'>
                 <a className='border border-neutral-200 rounded-lg p-4 items-center text-neutral-600 hover:bg-neutral-100 transition-all justify-between'>
                         <div className='flex gap-3 font-bold'>

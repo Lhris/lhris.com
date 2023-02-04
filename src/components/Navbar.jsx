@@ -1,9 +1,9 @@
-import Image from 'next/image';
+// import Image from 'next/image';
 import Link from 'next/link';
 import React, {useState} from 'react'
-import NavLogo from '../../public/assets/navLogo.png'
+// import NavLogo from '../../public/assets/navLogo.png'
 
-import {AiOutlineClose, AiOutlineMenu} from 'react-icons/ai'
+// import {AiOutlineClose, AiOutlineMenu} from 'react-icons/ai'
 import {FiArrowUpRight} from 'react-icons/fi'
 
 const Navbar = () => {
