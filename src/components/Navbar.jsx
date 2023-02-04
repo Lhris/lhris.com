@@ -7,11 +7,11 @@ import React, {useState} from 'react'
 import {FiArrowUpRight} from 'react-icons/fi'
 
 const Navbar = () => {
-    const [sidebar, setSidebar] = useState(false)
+    // const [sidebar, setSidebar] = useState(false)
 
-    const handleSidebar = () => {
-        setSidebar(!sidebar)
-    }
+    // const handleSidebar = () => {
+    //     setSidebar(!sidebar)
+    // }
     
     return (
         <div className='sticky top-0 w-full h-24 z-[100] bg-white bg-opacity-70 backdrop-blur px-8'>
