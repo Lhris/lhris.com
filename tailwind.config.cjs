@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        rubik: ['"Fredericka the Great"',  'Cursive']
+        fredericka: ['"Fredericka the Great"',  'Cursive']
       }
     },
   },
