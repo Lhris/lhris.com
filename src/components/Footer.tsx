@@ -1,6 +1,6 @@
 import React from 'react'
 
-import {FiArrowUp} from 'react-icons/fi'
+// import {FiArrowUp} from 'react-icons/fi'
 
 const Footer = () => {
     return (
