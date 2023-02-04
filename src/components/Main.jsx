@@ -14,14 +14,14 @@ const Main = () => {
                     <h1 className='tracking-widest uppercase text-transparent bg-clip-text bg-gradient-to-br from-neutral-500 via-neutral-400 to-neutral-400 text-3xl mb-5'>Software Engineer based in Los Angeles, CA</h1>
                     {/* <p className='text-gray-600 text-2xl mt-3 font-light'>I create things for the web</p> */}
                     <div className='flex flex-row gap-2'>
-                    <a href={'https://www.linkedin.com/in/chrislee-/'} target="_blank" className='flex w-[23%] border border-neutral-200 rounded-lg p-4 items-center text-neutral-800 hover:bg-neutral-100 transition-all justify-between cursor-pointer'>
+                    <a href={'https://www.linkedin.com/in/chrislee-/'} target="_blank" rel="noreferrer" className='flex w-[23%] border border-neutral-200 rounded-lg p-4 items-center text-neutral-800 hover:bg-neutral-100 transition-all justify-between cursor-pointer'>
                         <div className='flex gap-3 font-bold'>
                             <FiLinkedin size={20}/>
                             <div className='hidden md:flex'>LinkedIn</div>
                         </div>
                         <FiArrowUpRight size={20}/>
                     </a>
-                    <a href={'https://github.com/lhris'} target="_blank" className='flex w-[23%] border border-neutral-200 rounded-lg p-4 items-center text-neutral-800 hover:bg-neutral-100 transition-all justify-between cursor-pointer'>
+                    <a href={'https://github.com/lhris'} target="_blank" rel="noreferrer" className='flex w-[23%] border border-neutral-200 rounded-lg p-4 items-center text-neutral-800 hover:bg-neutral-100 transition-all justify-between cursor-pointer'>
                         <div className='flex gap-3 font-bold'>
                             <FiGithub size={20}/>
                             <div className='hidden md:flex'>GitHub</div>
