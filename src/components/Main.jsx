@@ -7,7 +7,7 @@ const Main = () => {
             <div className='max-w-screen-xl w-full py-24 pb-48 md:my-36 flex items-center'>
                 <div>
                     <h1 className='text-neutral-600 text-5xl mb-4' >Hi 👋🏼</h1>
-                    <h1 className='text-neutral-600 text-5xl mb-2' >I'm <span className='relative before:absolute before:bg-sky-800 before:bg-opacity-20 before:bottom-0 before:left-0 before:h-full before:w-full before:origin-bottom before:scale-y-[0.30] hover:before:scale-y-100 before:transition-transform before:ease-in-out before:duration-500'> Chris Lee</span></h1>
+                    <h1 className='text-neutral-600 text-5xl mb-2' >I&apos;m <span className='relative before:absolute before:bg-sky-800 before:bg-opacity-20 before:bottom-0 before:left-0 before:h-full before:w-full before:origin-bottom before:scale-y-[0.30] hover:before:scale-y-100 before:transition-transform before:ease-in-out before:duration-500'> Chris Lee</span></h1>
                     {/* <h1 className='text-gray-600 text-3xl mb-5 font-light'>I create things for the web</h1> */}
 
                     {/* <h1 className='text-8xl tracking-widest uppercase text-gray-400'>Chris Lee</h1> */}

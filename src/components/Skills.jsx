@@ -1,5 +1,4 @@
 import React from 'react'
-import {FiGithub, FiLinkedin, FiMail,  FiArrowUpRight} from 'react-icons/fi'
 import {SiPython, SiReact, SiTypescript, SiGoland, SiMysql} from 'react-icons/si'
 
 const Skills = () => {
