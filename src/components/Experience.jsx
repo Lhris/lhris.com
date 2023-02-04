@@ -14,12 +14,12 @@ const Experience = () => {
                         </div>
                         <div className='py-6'>
                             <p className='text-neutral-600 text-lg font-bold'>Service Desk Analyst</p>
-                            <p><span className='font-medium text-sky-900'>The Master's University</span> | <span className='text-neutral-400'>Oct 2020 - May 2021</span></p>
+                            <p><span className='font-medium text-sky-900'>The Master&apos;s University</span> | <span className='text-neutral-400'>Oct 2020 - May 2021</span></p>
                             <p>Assisting with software, hardware, and network troubleshooting for the university faculty while maintaining a 100% Customer Satisfaction rating on our ticketing platform. Contributed to accurate and up-to-date documentation of IT systems, processes, and procedures. </p>
                         </div>
                         <div className='py-6'>
                             <p className='text-neutral-600 text-lg font-bold'>Data Entry Assistant</p>
-                            <p><span className='font-medium text-sky-900'>The Master's University</span> | <span className='text-neutral-400'>June 2021 - July 2021</span></p>
+                            <p><span className='font-medium text-sky-900'>The Master&apos;s University</span> | <span className='text-neutral-400'>June 2021 - July 2021</span></p>
                             <p>Developed a Python Script which accelerated the data entry workflow by approximately 60%</p>
                         </div>
                         <div className='py-6'>
