@@ -1,7 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+<style>
 @import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+</style>
 
 @layer base {
     body {
