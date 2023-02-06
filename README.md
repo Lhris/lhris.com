@@ -1,6 +1,7 @@
+
 ![A preview of my Portfolio](https://i.imgur.com/n8kPnbk.png)
 
-# braydoncoyer.dev
+# lhris.com
 
 - **Framework**: [Next.js](https://nextjs.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
