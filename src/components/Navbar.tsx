@@ -14,9 +14,9 @@ const Navbar = () => {
     // }
     
     return (
-        <div className='sticky top-0 w-full h-20 md:h-24 z-[100] bg-white bg-opacity-70 backdrop-blur px-8'>
+        <div className='sticky top-0 w-full h-16 md:h-20 z-[100] bg-white bg-opacity-70 backdrop-blur px-8'>
             <div className='flex justify-between items-center w-full h-full'>
-                <a href={"/"} className='font-fredericka select-none hover:cursor-pointer text-5xl  text-sky'>
+                <a href={"/"} className='font-fredericka select-none hover:cursor-pointer text-4xl  text-sky'>
                     chris
                 </a>
                 
