@@ -11,7 +11,7 @@ const Main = () => {
                     {/* <h1 className='text-gray-600 text-3xl mb-5 font-light'>I create things for the web</h1> */}
 
                     {/* <h1 className='text-8xl tracking-widest uppercase text-gray-400'>Chris Lee</h1> */}
-                    <h1 className='tracking-widest uppercase text-transparent bg-clip-text bg-gradient-to-br from-neutral-500 via-neutral-400 to-neutral-400 text-base sm:text-lg md:text-xl lg:text-2xl mb-5'>Software Engineer based in Los Angeles, CA</h1>
+                    <h1 className='tracking-widest uppercase text-transparent bg-clip-text bg-gradient-to-br from-neutral-500 via-neutral-400 to-neutral-400 text-base sm:text-lg md:text-xl lg:text-2xl mb-5'>A Software Engineer based in Los Angeles, CA</h1>
                     {/* <p className='text-gray-600 text-2xl mt-3 font-light'>I create things for the web</p> */}
                     <div className='flex flex-row gap-2'>
                     <a title="LinkedIn" href={'https://www.linkedin.com/in/chrislee-/'} target="_blank" rel="noreferrer" className='flex w-[23%] border border-neutral-200 rounded-lg p-4 items-center text-neutral-800 hover:bg-neutral-100 transition-all justify-between cursor-pointer'>

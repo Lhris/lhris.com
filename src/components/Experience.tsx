@@ -20,7 +20,7 @@ const Experience = () => {
                         <div className='py-6'>
                             <p className='text-neutral-600 text-lg font-bold'>Data Entry Assistant</p>
                             <p><a href={'https://www.masters.edu/'} target="_blank" rel="noreferrer" className='font-medium text-sky-900'>The Master&apos;s University</a> <a className='text-neutral-800 font-light hidden sm:inline'>| June 2021 - July 2021</a></p>
-                            <p className='pt-1 font-light sm:font-normal text-sm sm:text-base'>Organized data from 270+ unversities for the Registrar&apos;s course equivalency software. Developed a Python Script which accelerated the data entry workflow by approximately 60%.</p>
+                            <p className='pt-1 font-light sm:font-normal text-sm sm:text-base'>Organized data from 270+ universities for the Registrar&apos;s course equivalency software. Developed a Python Script which accelerated the data entry workflow by approximately 60%.</p>
                         </div>
                    </div>
                 </div>
