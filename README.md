@@ -19,8 +19,8 @@
 ## Running Locally
 
 ```bash
-$ git clone https://github.com/Lhris/portfolio.git
-$ cd portfollio
+$ git clone https://github.com/Lhris/lhris-portfolio.git
+$ cd lhris-portfolio
 $ npm install
 $ npm run dev
 ```
