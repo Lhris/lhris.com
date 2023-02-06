@@ -5,6 +5,7 @@
 - **Framework**: [Next.js](https://nextjs.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 - **Backend**: Extendable using [TypeScript](https://www.typescriptlang.org/) / [tRPC](https://trpc.io/)
+- **Hosting**: [Vercel](https://vercel.com/)
 
 ## Todo:
 - **Add A blog utilizing Notion as a database, and fetching blog content using the [Notion API](https://developers.notion.com/)**
