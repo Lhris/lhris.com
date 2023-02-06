@@ -1,5 +1,5 @@
 # Lhris.com
-![A preview of my Portfolio](https://i.imgur.com/n8kPnbk.png)
+![A preview of my Portfolio](https://user-images.githubusercontent.com/36282285/216912558-b5828a4b-b06a-4057-9c5f-4e02d41a9f70.png)
 
 ## Stack [t3stack](https://create.t3.gg/)
 - **Framework**: [Next.js](https://nextjs.org/)
