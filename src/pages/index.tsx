@@ -7,7 +7,7 @@ import Skills from '../components/Skills'
 import Footer from '../components/Footer'
 
 
-import { api } from "../utils/api";
+// import { api } from "../utils/api";
 
 const Home: NextPage = () => {
   return (

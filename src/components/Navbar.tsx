@@ -1,6 +1,6 @@
 // import Image from 'next/image';
 import Link from 'next/link';
-import React, {useState} from 'react'
+import React from 'react'
 // import NavLogo from '../../public/assets/navLogo.png'
 
 // import {AiOutlineClose, AiOutlineMenu} from 'react-icons/ai'
