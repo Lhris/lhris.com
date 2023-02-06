@@ -1,7 +1,7 @@
-
+# Lhris.com
 ![A preview of my Portfolio](https://i.imgur.com/n8kPnbk.png)
 
-# lhris.com
+
 
 - **Framework**: [Next.js](https://nextjs.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
