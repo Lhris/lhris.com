@@ -24,3 +24,6 @@ $ cd portfollio
 $ npm install
 $ npm run dev
 ```
+
+## Lighthouse Metrics (Default Config + Incognito)
+![image](https://user-images.githubusercontent.com/36282285/216913280-d49e65ff-2f79-4b76-a4c6-41776521f047.png)
