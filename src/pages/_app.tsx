@@ -4,7 +4,7 @@ import { api } from "../utils/api";
 
 import "../styles/globals.css";
 
-import { Fredericka_the_Great } from '@next/font/google'
+import { Fredericka_the_Great } from 'next/font/google'
 
 const fredericka = Fredericka_the_Great({
   weight: '400',
